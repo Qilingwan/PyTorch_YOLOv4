@@ -1,3 +1,0 @@
-# test branch
-int a = 0
-print(a)
